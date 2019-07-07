@@ -13,4 +13,5 @@ I have attended advanced math lectures by Dr.Simon Rubenstein-Salzado on various
 * [Explicit Formulae For &Psi;(z) and &pi;(z)](http://simonrs.com/eulercircle/analyticnt/krishna-explicit.pdf)
 
 I am an avid Jazz pianist. I was a member of a Jazz band that my friends and I created. Some of our songs can be found [here](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw)
+
 My CV can be found [here](/cv.pdf)
