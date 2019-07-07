@@ -9,4 +9,7 @@ various math topics.
 
 I have attended advanced math lectures by Dr.Simon Rubenstein-Salzado on various math topics (Ergodic Theory, Analytic Number Theory). I wrote two expository papers at the end of these sessions.
 
+* [Applications of Fourier Analysis in Ergodic Systems](http://simonrs.com/eulercircle/ergodictheory/krishna-rushil-fourier.pdf)
+* [Explicit Formulae For psi(z) and pi(z)](http://simonrs.com/eulercircle/analyticnt/krishna-explicit.pdf)
+
 My CV can be found [here](/cv.pdf)
