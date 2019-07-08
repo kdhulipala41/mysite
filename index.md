@@ -12,6 +12,6 @@ I am a member of [Euler Circle](http://eulercircle.com){:target="_blank"} where 
 * [Applications of Fourier Analysis in Ergodic Systems](http://simonrs.com/eulercircle/ergodictheory/krishna-rushil-fourier.pdf){:target="_blank"}
 * [Explicit Formulae For &Psi;(z) and &pi;(z)](http://simonrs.com/eulercircle/analyticnt/krishna-explicit.pdf){:target="_blank"}
 
-I am an avid Jazz pianist. I was a member of a Jazz band that my friends and I created. Some of our songs can be found [here](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw)
+I am an avid Jazz pianist. I was a member of a Jazz band that my friends and I created. Some of our songs can be found [here](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw){:target="_blank"}
 
 My CV can be found [here](/cv.pdf){:target="_blank"}
