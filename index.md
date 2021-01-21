@@ -4,7 +4,7 @@ layout: default
 
 I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. 
 
-As a member of the [Euler Circle](http://eulercircle.com){:target="_blank"} I have attended math lectures by Dr.Simon Rubinstein-Salzedo on advanced math topics (Ergodic Theory, Analytic Number Theory, Cryptography, Infinite Series, Abstract Algebra, and Ring Theory/Algebraic Geometry). For each of these courses, I have written expository papers on various relevant subjects:
+As a member of the [Euler Circle](http://eulercircle.com){:target="_blank"}, I have attended math lectures by Dr.Simon Rubinstein-Salzedo on advanced math topics (Ergodic Theory, Analytic Number Theory, Cryptography, Infinite Series, Abstract Algebra, and Ring Theory/Algebraic Geometry). For each of these courses, I have written expository papers on various relevant subjects:
 
 * [Applications of Fourier Analysis in Ergodic Systems](http://simonrs.com/eulercircle/ergodictheory/krishna-rushil-fourier.pdf){:target="_blank"}
 * [Explicit Formulae For &Psi;(z) and &pi;(z)](http://simonrs.com/eulercircle/analyticnt/krishna-explicit.pdf){:target="_blank"}
@@ -19,6 +19,6 @@ My resume can be found [here](/cv.pdf){:target="_blank"}.
 
 
 
-"The happiness of the drop is to die in the river."
+*"The happiness of the drop is to die in the river."*
 
 > – <cite>Al-Ghazzali</cite>
