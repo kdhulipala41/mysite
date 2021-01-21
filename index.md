@@ -8,11 +8,12 @@ layout: default
 
 > – <cite>Al-Ghazzali</cite>
 
+<p>&nbsp;</p>
+
 ![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 
 I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. 
