@@ -19,4 +19,6 @@ My resume can be found [here](/cv.pdf){:target="_blank"}
 
 
 
-"The happiness of the drop is to die in the river." - Al-Ghazzali
+"The happiness of the drop is to die in the river."
+
+> – <cite>Al-Ghazzali</cite>
