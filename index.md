@@ -18,6 +18,7 @@ I am an avid Jazz pianist. I was a member of a Jazz band that my friends and I c
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 *"The happiness of the drop is to die in the river."*
 
