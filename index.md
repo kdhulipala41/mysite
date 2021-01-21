@@ -2,12 +2,9 @@
 layout: default
 ---
 
-I am a senior at Monta Vista High School in Cupertino, CA.
+I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. 
 
-I maintain a [youtube](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw){:target="_blank"} site where I have some expository lectures on
-various math and physics topics.
-
-I am a member of the [Euler Circle](http://eulercircle.com){:target="_blank"} where I have attended math lectures by Dr.Simon Rubinstein-Salzedo on advanced math topics (Ergodic Theory, Analytic Number Theory, Cryptography, Infinite Series, Abstract Algebra, and Ring Theory/Algebraic Geometry). For each of these courses, I have written expository papers on various relevant subjects:
+As a member of the [Euler Circle](http://eulercircle.com){:target="_blank"} I have attended math lectures by Dr.Simon Rubinstein-Salzedo on advanced math topics (Ergodic Theory, Analytic Number Theory, Cryptography, Infinite Series, Abstract Algebra, and Ring Theory/Algebraic Geometry). For each of these courses, I have written expository papers on various relevant subjects:
 
 * [Applications of Fourier Analysis in Ergodic Systems](http://simonrs.com/eulercircle/ergodictheory/krishna-rushil-fourier.pdf){:target="_blank"}
 * [Explicit Formulae For &Psi;(z) and &pi;(z)](http://simonrs.com/eulercircle/analyticnt/krishna-explicit.pdf){:target="_blank"}
@@ -19,3 +16,7 @@ I am a member of the [Euler Circle](http://eulercircle.com){:target="_blank"} wh
 I am an avid Jazz pianist. I was a member of a Jazz band that my friends and I created. Some of our songs can be found [here](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw){:target="_blank"}
 
 My resume can be found [here](/cv.pdf){:target="_blank"}
+
+
+
+"The happiness of the drop is to die in the river." - Al-Ghazzali
