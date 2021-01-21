@@ -8,6 +8,7 @@ layout: default
 
 > – <cite>Al-Ghazzali</cite>
 
+![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
