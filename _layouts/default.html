@@ -29,8 +29,8 @@
 	      <br>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          {{ site.description | default: site.github.project_tagline }}
-          <hr style="margin:10px 0 0px;" />
+	  <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr style="margin:10px 0 -5px;" />
        </div>
 
 	{{ content }}
