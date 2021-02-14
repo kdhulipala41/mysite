@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. 
+I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. My current research interests are in algebra, combinatorics, and theoretical computer science.
 
 As a member of the [Euler Circle](http://eulercircle.com){:target="_blank"}, I have attended math lectures by Dr.Simon Rubinstein-Salzedo on advanced math topics (Ergodic Theory, Analytic Number Theory, Cryptography, Infinite Series, Abstract Algebra, and Ring Theory/Algebraic Geometry). For each of these courses, I have written expository papers on various relevant subjects:
 
