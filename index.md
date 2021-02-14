@@ -2,6 +2,10 @@
 layout: default
 ---
 
+*"The happiness of the drop is to die in the river."*
+> – <cite>Al-Ghazzali</cite>
+![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
+
 I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. My current research interests are in algebra, combinatorics, and theoretical computer science.
 
 In high school, I was a member of the [Euler Circle](http://eulercircle.com){:target="_blank"}, where I attended math lectures by Dr.Simon Rubinstein-Salzedo on various topics in pure math (Ergodic Theory, Analytic Number Theory, Cryptography, Infinite Series, Abstract Algebra, and Ring Theory/Algebraic Geometry). I have also written expository papers for each of these topics:
@@ -18,9 +22,7 @@ I also enjoy playing Jazz piano in my free time. I was a member of a Jazz band t
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
 
-![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
-*"The happiness of the drop is to die in the river."*
-> – <cite>Al-Ghazzali</cite>
+
 <!---
 --->
 
