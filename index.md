@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<p>&nbsp;</p>
 *"The happiness of the drop is to die in the river."*
 > – <cite>Al-Ghazzali</cite>
 <p>&nbsp;</p>
