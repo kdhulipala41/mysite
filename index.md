@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-*"The happiness of the drop is to die in the river."*
-> – <cite>Al-Ghazzali</cite>
-
-![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
 
 I am a first-year mathematics major in the College of Creative Studies at the University of California, Santa Barbara. 
 
@@ -21,5 +17,11 @@ I am an avid Jazz pianist. I was a member of a Jazz band that my friends and I c
 
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
+<!---
+<> *"The happiness of the drop is to die in the river."*
+<> > – <cite>Al-Ghazzali</cite>
+
+<> ![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
+--->
 
 
