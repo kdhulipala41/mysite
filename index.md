@@ -17,11 +17,11 @@ I also enjoy playing Jazz piano in my free time. I was a member of a Jazz band t
 
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
-<!---
-<> *"The happiness of the drop is to die in the river."*
-<> > – <cite>Al-Ghazzali</cite>
 
-<> ![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
+![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
+*"The happiness of the drop is to die in the river."*
+> – <cite>Al-Ghazzali</cite>
+<!---
 --->
 
 
