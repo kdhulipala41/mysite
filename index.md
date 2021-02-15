@@ -22,7 +22,7 @@ I also enjoy playing Jazz piano in my free time. I was a member of a Jazz band t
 
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
-
+[Here](![photograph of dog and boy](https://user-images.githubusercontent.com/49664689/107943741-f8a43300-6f41-11eb-8258-fed8a681be63.jpeg)){:target="_blank"} is a photograph of myself.
 
 <!---
 --->
