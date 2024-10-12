@@ -7,7 +7,9 @@ layout: default
 
 ![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
 
-I am a first-year Computer Science MS student in the College of Engineering at the University of California, Santa Barbara. My focus Systems with an emphasis on Computer Architecture, and I work specifically in parallel GPU/CUDA programming and graph algorithms.
+I am a first-year Computer Science MS student in the College of Engineering at UCSB. My focus is on Systems with an emphasis on Computer Architecture, and I work specifically in parallel GPU/CUDA programming and graph algorithms.
+
+If my name sounds familiar, we might have met at [ISCA 2024](https://iscaconf.org/isca2024/){:target="_blank"} or [CMMRS 2024](https://cmmrs.mpi-sws.org/){:target="_blank"}!
 
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
