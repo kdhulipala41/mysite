@@ -7,13 +7,22 @@ layout: default
 
 ![art](https://user-images.githubusercontent.com/49664689/105325271-431fd300-5b81-11eb-9d75-802e414fe965.jpg)
 
-I am a fourth-year Computer Science BS/MS major in the College of Engineering at the University of California, Santa Barbara. My focus is Computer Architecture, and I work specifically in parallel GPU/CUDA programming and graph algorithms.
+I am a first-year Computer Science MS student in the College of Engineering at the University of California, Santa Barbara. My focus Systems with an emphasis on Computer Architecture, and I work specifically in parallel GPU/CUDA programming and graph algorithms.
 
 My resume can be found [here](/cv.pdf){:target="_blank"}.
 
-Here is a list of relevant courses that I have completed in my undergraduate schooling at UCSB:
+Here is a list of relevant courses that I have completed in my schooling at UCSB:
 
+* [CS 254       - Advanced Computer Architecture](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/advanced-computer-architecture){:target="_blank"}
+* [CS 231       - Topics in Combinatorial Algorithms](https://sites.cs.ucsb.edu/~suri/cs231/New231.html){:target="_blank"}
+* [CS 291A      - Scalable Internet Services](https://cs291.com/){:target="_blank"}
 * [CS 154       - Computer Architecture](https://cs.ucsb.edu/education/courses/course-descriptions/computer-architecture){:target="_blank"}
+* [CS 170       - Operating Systems](https://sites.cs.ucsb.edu/~rich/class/cs170/index.html){:target="_blank"}
+* [CS 176A      - Computer Networks](https://cs.ucsb.edu/education/courses/course-descriptions/introduction-computer-communication-networks){:target="_blank"}
+* [CS 190A      - Algorithms Engineering](https://cs.ucsb.edu/index.php/education/courses/special-topics-seminars/special-topics-course/cmpsc-190a-algorithms-engineering-0){:target="_blank"}
+* [CS 177       - Computer Security](https://sites.cs.ucsb.edu/~kemm/courses/cs177/){:target="_blank"}
+* [CS 160       - Translation of Programming Languages](https://cs.ucsb.edu/education/courses/course-descriptions/translation-programming-languages){:target="_blank"}
+* [CS 165A      - Artificial Intelligence](https://cs.ucsb.edu/education/courses/course-descriptions/artificial-intelligence){:target="_blank"}
 * [CS 165B      - Machine Learning](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/machine-learning){:target="_blank"}
 * [CS 181       - Computer Vision](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/introduction-computer-vision){:target="_blank"}
 * [CS 184       - Mobile Application Development](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/mobile-application-development){:target="_blank"}
@@ -51,11 +60,11 @@ In high school, I was a member of the [Euler Circle](http://eulercircle.com){:ta
 * [An Introduction to Infinite Galois Theory](http://simonrs.com/eulercircle/algebra2020/krishna-infinitegalois.pdf){:target="_blank"}
 * [Invariant Theory](http://simonrs.com/eulercircle/rtag2020/krishna-invariant.pdf){:target="_blank"}
 
-I also enjoy playing Jazz piano in my free time. I was a member of a Jazz band that my friends and I created. Some of our songs are featured [here](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw){:target="_blank"}.
+
+<!---I also enjoy playing Jazz piano in my free time. I was a member of a Jazz band that my friends and I created. Some of our songs are featured [here](https://www.youtube.com/channel/UCd8hTfZHh_n0LqAocn8IXTw){:target="_blank"}.
+--->
 
 <!---[Here](![photograph of dog and boy](https://user-images.githubusercontent.com/49664689/107943741-f8a43300-6f41-11eb-8258-fed8a681be63.jpeg)){:target="_blank"} is a photograph of myself.
-
-
 --->
 
 
