@@ -26,8 +26,6 @@ Here is a list of relevant courses that I have completed in my schooling at UCSB
 * [CS 160       - Translation of Programming Languages](https://cs.ucsb.edu/education/courses/course-descriptions/translation-programming-languages){:target="_blank"}
 * [CS 165A      - Artificial Intelligence](https://cs.ucsb.edu/education/courses/course-descriptions/artificial-intelligence){:target="_blank"}
 * [CS 165B      - Machine Learning](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/machine-learning){:target="_blank"}
-* [CS 181       - Computer Vision](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/introduction-computer-vision){:target="_blank"}
-* [CS 184       - Mobile Application Development](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/mobile-application-development){:target="_blank"}
 * [CS 156       - Advanced Applications Programming](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/advanced-applications-programming){:target="_blank"}
 * [CS 138       - Automata/Formal Languages](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/automata-and-formal-languages){:target="_blank"}
 * [CS 111       - Numerical Algorithms](https://cs.ucsb.edu/index.php/education/courses/course-descriptions/introduction-computational-science){:target="_blank"}
